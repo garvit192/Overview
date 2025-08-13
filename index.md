@@ -4,7 +4,7 @@
 **B.S. Mathematics–Computer Science**, UC San Diego *(Expected Dec 2025)*  
 Specializing in optimization algorithms, compiler design, and scalable backend systems.
 
-[Resume (PDF)](Garvit_Agarwal_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/agarwalgarvit) | [GitHub](https://github.com/garvitagarwal)
+[Resume (PDF)](Garvit_Agarwal_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/agarwalgarvit) | [GitHub](https://github.com/garvit192)
 
 ---
 
