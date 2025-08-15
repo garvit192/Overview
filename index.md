@@ -4,7 +4,7 @@
 University of California, San Diego | Graduating December 2025  
 
 📄 [Download My Resume](#)  
-📧 garvit.agarwal682@gmail.com | [LinkedIn](https://www.linkedin.com/in/agarwalgarvit/) | [GitHub](https://github.com/garvit192/)
+📧 garvit.agarwal192@gmail.com |gagarwal@ucsd.edu | [LinkedIn](https://www.linkedin.com/in/agarwalgarvit/) | [GitHub](https://github.com/garvit192/)
 
 ---
 
