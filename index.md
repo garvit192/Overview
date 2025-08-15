@@ -41,7 +41,7 @@ An interactive web application to model, solve, and visualize convex optimizatio
 - Built secure, production-ready backend containerized with Docker and deployed on AWS
 - Integrated AWS S3 for persistent storage and CloudWatch for monitoring  
 
-[GitHub Repository](https://github.com/garvit192/CvxViz) | *(Demo coming soon)*
+[GitHub Repository](https://github.com/garvit192/CvxViz) *(Demo coming soon)*
 
 ---
 
@@ -56,7 +56,7 @@ Developing in-house bioinformatics modules for **GenePattern**, focusing on soma
 - Integrated workflows into containerized environments using Docker
 - Implemented chromosome-wise parallel execution for performance gains, leading to 4x gains in execution times
 
-[Mutect2 GitHub Repo](https://github.com/garvit192/Genepattern-mutect2)
+[GitHub Repository](https://github.com/garvit192/Genepattern-mutect2)
 
 ---
 
@@ -79,7 +79,7 @@ Designed and implemented a lightweight functional programming language from scra
 **Role:** Software Developer Intern | **Timeline:** January 2024 - June 2024  
 **Tech Stack:** Unreal Engine 5, C++, Python, CouchDB  
 
-Developed a real-time **digital twin** of the UCSD campus for live weather and congestion visualization. Code 
+Developed a real-time **digital twin** of the UCSD campus for live weather and congestion visualization.
 
 **Key Contributions:**
 - Built real-time VR model in Unreal Engine 5
@@ -93,7 +93,9 @@ Developed a real-time **digital twin** of the UCSD campus for live weather and c
 ### 🛡 Department of Defence – I4NS
 **Role:** Research Intern | **Timeline:** April 2024 - June 2024   
 
-Contributed to microgrid control system modernization efforts for the Marine Corps Air Station Miramar. More details availabe on request.
+Contributed to microgrid control system modernization efforts for the Marine Corps Air Station Miramar.
+> **Note:** More information about this project is available upon request. Specific technical and operational details are restricted due to Controlled Unclassified Information (CUI) guidelines.
+
 
 **Key Contributions:**
 - Led 24+ stakeholder interviews to identify cybersecurity, automation, and scalability issues
