@@ -100,6 +100,8 @@ Contributed to microgrid control system modernization efforts for the Marine Cor
 - Proposed optimization strategies for microgrid control to enhance operational independence
 - Produced documentation and technical analysis for modernization strategy
 
+[Program Overview](https://innovation.ucsd.edu/explore-centers/oic/programs/innovating-for-national-security.html)
+
 
 ---
 
