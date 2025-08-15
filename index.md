@@ -71,7 +71,7 @@ Designed and implemented a lightweight functional programming language from scra
 - Contributed to the Eval engine for AST traversal and execution logic.
 - Collaborated on integration between parser, type checker, and REPL.  
 
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/garvit192/Custom-Programming-Language)
 
 ---
 
