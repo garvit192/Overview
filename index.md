@@ -60,7 +60,7 @@ Developing in-house bioinformatics modules for **GenePattern**, focusing on soma
 
 ---
 
-### 🛠 Custom Programming Language
+### 🛠 Custom Programming Language (Project)
 **Role:** Creator | **Timeline:** May 2025 - June 2025
 **Tech Stack:** Haskell, Parsec
 
