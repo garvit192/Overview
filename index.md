@@ -3,7 +3,7 @@
 **Mathematics–Computer Science Major**  
 University of California, San Diego | Graduating December 2025  
 
-📄 [Download My Resume](#)  
+📄 [Download My Resume](https://github.com/garvit192/Overview/blob/main/Resume.pdf)  
 📧 garvit.agarwal192@gmail.com | gagarwal@ucsd.edu | [LinkedIn](https://www.linkedin.com/in/agarwalgarvit/) | [GitHub](https://github.com/garvit192/)
 
 ---
